@@ -1,0 +1,10 @@
+{
+  "name": "chrome-extension",
+  "version": "1.0.0",
+  "dependencies": {
+    "core": "workspace:*"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  }
+}
